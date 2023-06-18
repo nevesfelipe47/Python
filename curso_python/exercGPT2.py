@@ -1,7 +1,7 @@
 """
 
 Exercício: Verificador de Número Par ou Ímpar
-
+489
 Crie um programa em Python que solicite ao usuário um número inteiro e verifique se esse número é par ou ímpar. Em seguida, exiba uma mensagem indicando o resultado.
 
 Dicas:
