@@ -6,4 +6,10 @@
     str, int, float, bool
 """
 
-print('1'+1)
+print(int('1') +1) # Python por ser uma linguagem dinamica e de tipagem forte 
+                   # não ira fazer a junção de um str com uma int e apresentara um erro.
+
+print('a' + 'b')
+
+print (float('2') + 2)
+
