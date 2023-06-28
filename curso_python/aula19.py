@@ -21,6 +21,6 @@ diferente = 1!=2
 
 print(maior)
 print(maior_ou_igual)
-print(diferente)
-print(diferente)
-print(diferente)
+print(menor)
+print(menor_ou_igual)
+print(igual)

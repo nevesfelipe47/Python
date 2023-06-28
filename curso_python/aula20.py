@@ -6,7 +6,7 @@ if num1 > num2:
     print(maior_valor, " é o maior valor!")
 elif num1 < num2 : 
     maior_valor = num2
-    print(maior_valor, " é o maior valor!")
+    print(f'{maior_valor=}' " é o maior valor!")
 elif num1 == num2: 
     print("Valores iguais")
 
